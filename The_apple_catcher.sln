@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppleCatcher", "The_apple_catcher\AppleCatcher.csproj", "{168A61AB-B908-4D65-939B-72778113DEA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The_apple_catcher", "The_apple_catcher.csproj", "{216CF370-D89B-4F93-B452-DFC716603468}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{168A61AB-B908-4D65-939B-72778113DEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{168A61AB-B908-4D65-939B-72778113DEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{168A61AB-B908-4D65-939B-72778113DEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{168A61AB-B908-4D65-939B-72778113DEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216CF370-D89B-4F93-B452-DFC716603468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216CF370-D89B-4F93-B452-DFC716603468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216CF370-D89B-4F93-B452-DFC716603468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216CF370-D89B-4F93-B452-DFC716603468}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C8F11BEC-4597-490A-9497-7E85C3E274ED}
+		SolutionGuid = {BB2DA562-ED4A-4458-AA3D-84EE84143472}
 	EndGlobalSection
 EndGlobal
