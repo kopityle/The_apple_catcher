@@ -8,7 +8,6 @@ namespace The_apple_catcher
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-        Texture2D background;
 
         public Game1()
         {
