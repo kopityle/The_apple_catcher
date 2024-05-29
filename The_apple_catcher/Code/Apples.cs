@@ -157,7 +157,7 @@ namespace AppleCatcher
     class Basket
     {
         Vector2 Pos;
-        public int Speed { get; set; } = 17;
+        public int Speed { get; set; } = 19;
 
         Color color = Color.Brown;
         public static Texture2D Texture2D { get; set; }

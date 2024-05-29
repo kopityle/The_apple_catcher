@@ -14,7 +14,7 @@ namespace The_apple_catcher
         public static Texture2D Background { get; set; }
         static int timeCounter = 0;
         static Color color;
-        static Vector2 textPosition = new Vector2(100, 100);
+        static Vector2 textPosition = new(100, 100);
         public static SpriteFont Font { get; set; }
         static public void Draw(SpriteBatch spriteBatch)
         {

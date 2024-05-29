@@ -25,7 +25,6 @@ namespace The_apple_catcher
 
         protected override void Initialize()
         {
-            // TODO: Add your initialization logic here
             _graphics.PreferredBackBufferWidth = 1920;
             _graphics.PreferredBackBufferHeight = 1020;
             _graphics.IsFullScreen = false;
@@ -43,7 +42,7 @@ namespace The_apple_catcher
             Apples.Init(_spriteBatch, 1920, 1020);
             Sheets.Texture2D = Content.Load<Texture2D>("sheet");
             Basket.Texture2D = Content.Load<Texture2D>("basket");
-            Apple.Texture2D = Content.Load<Texture2D>("redapple");
+             Apple.Texture2D = Content.Load<Texture2D>("redapple");
             Apple.GreenAppleTexture = Content.Load<Texture2D>("greenapple");
             Apple.YellowAppleTexture = Content.Load<Texture2D>("yellowapple");
             Apple.RottenAppleTexture = Content.Load<Texture2D>("rottenapple");
